@@ -50,12 +50,6 @@ iframe {
     font-size: 2px;            
     color: #333;               
 }
-#interactive-artwork{width: 100%;           
-    max-width: 1200px;      
-    height: auto;           
-    aspect-ratio: 16 / 9;   
-    display: block;         
-    margin: 0 auto;   }
 
 .concept-image {
     display: block;         
