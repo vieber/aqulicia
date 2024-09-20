@@ -6,8 +6,8 @@ body {
 .content-wrapper {
     max-width: 1920px; 
     margin: 0 auto;     
-    padding-left: 40px; 
-    padding-right: 40px; 
+    padding-left: 100px; 
+    padding-right: 100px; 
     text-align: justify
 } 
   
