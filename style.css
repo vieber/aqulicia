@@ -1,13 +1,13 @@
 body {
-    margin: 0;  /* Remove default body margin */
+    margin: 0;  
     padding: 0;
 }
 
 .content-wrapper {
-    max-width: 1920px;  /* Set a max-width to control the layout */
-    margin: 0 auto;     /* Center the content horizontally */
-    padding-left: 20px; /* Add space on the left */
-    padding-right: 20px; /* Add space on the right */
+    max-width: 1920px; 
+    margin: 0 auto;     
+    padding-left: 20px; 
+    padding-right: 20px; 
     text-align: justify
 } 
   
@@ -35,25 +35,25 @@ p {
 }
 
 iframe {
-    width: 100%;            /* Set the video width to 80% of the content wrapper */
-    max-width: 1200px;      /* Set a maximum width */
-    height: auto;           /* Let the browser calculate the height automatically based on the aspect ratio */
-    aspect-ratio: 16 / 9;   /* Maintain the 16:9 aspect ratio */
-    display: block;         /* Ensure the video behaves as a block element */
-    margin: 0 auto;         /* Center the video horizontally */
+    width: 100%;           
+    max-width: 1200px;      
+    height: auto;           
+    aspect-ratio: 16 / 9;   
+    display: block;         
+    margin: 0 auto;       
 }
 
 #site-footer p {
-    padding: 100px 0 0 0;      /* Padding on top */
-    text-align: center;        /* Center the text */
-    font-family: "Josefin Sans", sans-serif;  /* Set the font */
-    font-size: 30px;            /* Set the font size for the paragraph */
-    color: #333;               /* Set text color */
+    padding: 100px 0 0 0;      
+    text-align: center;        
+    font-family: "Josefin Sans", sans-serif;  
+    font-size: 30px;            
+    color: #333;               
 }
 
 .concept-image {
-    display: block;         /* Ensure the image behaves as a block element */
-    max-width: 100%;        /* The image will scale down to fit within the container */
-    height: auto;           /* Maintain the image's aspect ratio */
-    margin: 0 auto;         /* Center the image horizontally */
+    display: block;         
+    max-width: 100%;       
+    height: auto;           
+    margin: 0 auto;         
 }
